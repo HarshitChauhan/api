@@ -70,6 +70,7 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 
 **Other Trackers/Dashboards**
 
+- [Covid19-Tracker-App](https://cutt.ly/covid19trackerapp) (by [@HarshitChauhan](https://github.com/HarshitChauhan))
 - [Tracker](https://covidstat.info/) (by [@skavinvarnan ](https://github.com/skavinvarnan))
 - [Statistics and Predictive Analysis (India)](https://gnsp.in/covid19/) (by [@GnsP](https://github.com/GnsP))
 - [TN Specific](https://covid19trackerbk.netlify.app/) - [Repo](https://github.com/dynamicbalaji/covid19-tracker)
