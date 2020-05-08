@@ -70,7 +70,6 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 
 **Other Trackers/Dashboards**
 
-- [Covid19-Tracker-App](https://cutt.ly/covid19trackerapp) (by [@HarshitChauhan](https://github.com/HarshitChauhan))
 - [Tracker](https://covidstat.info/) (by [@skavinvarnan ](https://github.com/skavinvarnan))
 - [Statistics and Predictive Analysis (India)](https://gnsp.in/covid19/) (by [@GnsP](https://github.com/GnsP))
 - [TN Specific](https://covid19trackerbk.netlify.app/) - [Repo](https://github.com/dynamicbalaji/covid19-tracker)
@@ -82,6 +81,7 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 - [COVID-19 Tracker/Visualizer](https://coronago.cf/) (by [@kaushikbhat07](https://github.com/kaushikbhat07))
 - [Bihar COVID-19 Dashboard/Tracker](https://coronainbihar.github.io/) (by [@anandv01](https://github.com/anandv01))
 - [COVID19 Tracker/Predictor](https://track-covid-19ind.herokuapp.com/) (by [@manoj](https://github.com/ManojNallusamy))
+- [Covid19-Tracker-App](https://cutt.ly/covid19trackerapp) (by [@HarshitChauhan](https://github.com/HarshitChauhan))
 
 
 **Telegram Bots**
